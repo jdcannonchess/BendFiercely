@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BendFiercely" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/amber_dark</item>
+        <item name="android:navigationBarColor">@color/cream</item>
+    </style>
+</resources>
+
