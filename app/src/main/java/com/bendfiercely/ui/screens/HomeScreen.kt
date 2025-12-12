@@ -95,7 +95,7 @@ fun HomeScreen(
             Spacer(modifier = Modifier.height(16.dp))
             
             Text(
-                text = "Master the pancake.\nConquer acro yoga.",
+                text = "Master the pancake.",
                 style = MaterialTheme.typography.bodyLarge,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 textAlign = TextAlign.Center,
